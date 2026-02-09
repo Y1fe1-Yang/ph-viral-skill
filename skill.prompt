@@ -105,23 +105,86 @@ I'd genuinely love to hear:
 I'll be active in the comments!
 ```
 
-### Casual Interactive Post Formula
+### Casual Interactive Post Formula (Discussion Style)
+
+**IMPORTANT: Product Hunt moderation requires posts to be community-focused, not promotional. Use this human, conversational style:**
+
 ```
-Title: "⚡ [Number] [Topic] Problems We [Timeframe]"
+Title: "[Question that invites discussion]" or "Am I the only one who [relatable frustration]?"
+
+Body Structure:
+[Personal Story - Natural, Conversational]
+Opening with personal context (e.g., "Okay, weird thought that's been bugging me...")
+Share a specific frustration or observation
+Use natural language, not bullet points
+
+[Reflection - Why This Matters]
+Connect to broader patterns
+Use conversational transitions ("Here's what really got me:", "I feel like...")
+Show vulnerability ("I can't quite put my finger on what it is")
+
+[Optional: Mention Product as Example, NOT Promotion]
+If mentioning a product (including yours):
+- Frame as discovery: "I stumbled on this thing called X recently"
+- Describe neutrally: "they have this interesting approach where..."
+- Show genuine reaction: "It felt refreshingly simple, honestly"
+- NEVER use promotional language like "Check it out" or "We built"
+
+[Open-Ended Questions - Invite Discussion]
+Ask 2-3 genuine questions
+Use natural phrasing: "Has anyone else felt this?"
+Show uncertainty: "Or am I just being impatient?"
+Encourage different perspectives: "If this is a solved problem, please call me out!"
+
+TONE: Natural, human, vulnerable, curious
+AVOID: Lists, bullet points, promotional CTAs, structured sections
+GOAL: Start a real conversation, not promote a product
+```
+
+**Example of What Works:**
+```
+Title: "Am I the only one who thinks 'installing software' feels broken in 2025?"
 
 Body:
-1. [Specific scenario 1 - 2 sentences with time/numbers]
+Okay, weird thought that's been bugging me.
 
-2. [Specific scenario 2 - 2 sentences with pain point]
+I wanted to try a new AI tool yesterday. Downloaded a 500MB app, created yet another account, spent 15 minutes figuring out where the buttons are... just to use it for one specific thing.
 
-3. [Specific scenario 3 - 2 sentences with need]
+And then I just sat there thinking: why am I treating software like it's 1995?
 
-4. [Specific scenario 4 - 2 sentences with current state]
+We've figured out that music doesn't need apps anymore—you just stream it. Payments? Tap your phone. Documents? Google Docs just works. But somehow every productivity tool still wants me to download, install, configure, learn their specific UI, and accept that my data lives in their silo forever.
 
-5. [Specific scenario 5 - 2 sentences with gap]
+Here's what really got me: my phone has 47 apps. I use maybe 5 of them regularly.
 
-[No CTA needed]
+The rest? Downloaded for one thing, never opened again. Still sitting there taking up space, sending notifications, running in the background.
+
+I feel like we're *this close* to something better, but I can't quite put my finger on what it is.
+
+Like, what if software was more like... capabilities you invoke? Not apps you install?
+
+I stumbled on this thing called HappyCapy recently (someone on PH made it), and they have this interesting approach where you just drag "skills" into your browser and they work. No downloading separate apps for each thing, no learning a new interface every time—they just... run. It felt refreshingly simple, honestly—like "wait, it can be this easy?"
+
+Made me wonder if we're stuck in an old pattern just because that's how we've always done it.
+
+Has anyone else felt this? Like you download something, use it once, and think "there has to be a better way"?
+
+Or am I just being unreasonably impatient with how software works? 😅
+
+Genuinely curious:
+- Do you think the whole "installation" thing is outdated, or is there a good reason we still do it?
+- What would software look like if we redesigned it from scratch today?
+- Are there tools you use that already feel like this "future model"?
+
+(If this is a solved problem I'm just unaware of, please call me out!)
 ```
+
+**Why This Works:**
+- Personal story (relatable frustration)
+- Natural, conversational flow (not structured lists)
+- Shows vulnerability ("I can't quite put my finger on it")
+- Mentions product as discovery, not promotion
+- Asks genuine questions
+- Invites different perspectives
 
 ### Community Support Post Formula
 ```
@@ -163,6 +226,43 @@ How would you handle situations like this?
 ❌ Generic feedback requests ("Let us know what you think!")
 ❌ Simple thank-you replies ("Thanks for sharing!")
 ❌ Newsletter format expecting discussion
+❌ Overly structured posts (numbered lists, excessive bullet points)
+❌ Promotional language ("Check it out", "We built", "Our product")
+❌ Describing your product as "weird" or "strange" (use "interesting" instead)
+❌ Claiming no accounts needed if there is an account (be accurate)
+
+## Product Hunt Forum Guidelines Compliance
+
+**Community-Focused:**
+- Start conversations that benefit the whole community
+- Share insights, experiences, questions that others find valuable
+- Create opportunities for meaningful dialogue
+
+**Well-Structured (but Natural):**
+- Present topic clearly but conversationally
+- Include relevant context organically
+- Be specific about what you're trying to understand
+
+**Engaging:**
+- Ask open-ended questions
+- Share your perspective while inviting others
+- Actively participate in discussions
+
+**Avoid:**
+- Low-effort engagement farming
+- Single-line questions answerable by search
+- Using forums primarily to promote products
+- Excessive self-promotion or spam
+- Link dropping without context
+- Off-topic posts
+
+**When Mentioning Your Product:**
+- Frame as personal discovery: "I stumbled on..."
+- Describe experience: "It felt refreshingly simple"
+- Position as example: "Made me wonder if..."
+- NEVER use promotional CTAs: "Check it out", "Try it now"
+- NEVER say "we built this to solve..." in main post
+- Be accurate: don't claim features you don't have
 
 ## Expected Results
 
