@@ -1,0 +1,68 @@
+name: ph-viral
+version: 1.0.0
+description: Product Hunt Viral Post & Reply Master - Generate high-engagement posts guaranteed to go viral
+author: HappyCapy
+icon: 🚀
+
+capabilities:
+  - Generate 3 types of guaranteed high-engagement posts (Technical Depth, Casual Interactive, Community Support)
+  - Generate 3 types of high-quality replies (Golden Sentence, Friendly, Follow-up Question)
+  - Provide posting strategy and anti-pattern guidelines
+  - Based on real cases: 168 comments, 107 comments, 73 comments
+
+usage: |
+  This skill demonstrates HappyCapy's "Skill is the new software" philosophy.
+
+  **Quick Start:**
+  - "Generate a technical depth post about [topic]"
+  - "Help me reply to this comment: [comment content], use golden sentence style"
+  - "When should I post? Give me a monthly strategy"
+
+  **Example:**
+  - "Generate a technical depth post for HappyCapy about AI context management"
+  - "Generate a casual interactive post listing 5 AI workflow problems"
+  - "Generate a community support post about losing AI prompts"
+
+params:
+  - name: command
+    type: string
+    required: false
+    description: The action you want to take (post/reply/strategy)
+
+  - name: post_type
+    type: string
+    required: false
+    enum: [technical, casual, community]
+    description: Type of post to generate
+
+  - name: topic
+    type: string
+    required: false
+    description: The topic or pain point to focus on
+
+  - name: reply_style
+    type: string
+    required: false
+    enum: [golden, friendly, curious]
+    description: Style of reply to generate
+
+  - name: comment_content
+    type: string
+    required: false
+    description: The comment you want to reply to
+
+examples:
+  - prompt: "Generate a technical depth post about AI context management"
+    description: Creates a post with 60% pain point + 40% product formula
+
+  - prompt: "Reply to 'I just use copy-paste' with golden sentence style"
+    description: Generates a deepening, insightful reply with memorable quotes
+
+  - prompt: "Give me a posting strategy for the next month"
+    description: Provides timing, frequency, and post type recommendations
+
+metadata:
+  tags: [product-hunt, viral-marketing, community-engagement, content-strategy]
+  category: marketing
+  license: MIT
+  repository: https://github.com/happycapy/ph-viral-skill
